@@ -1,0 +1,60 @@
+{
+    "backup": {
+        "origen": "/home/tuusuario",
+        "destino_base": "/media/tuusuario/Backup_Drive",
+        "nombre_backup": "backup_home",
+        "tipo": "incremental",
+        "compresion": "gz",
+        "encryption": {
+            "habilitado": false,
+            "password": "",
+            "algorithm": "aes256"
+        }
+    },
+    "exclusiones": {
+        "patrones": [
+            "*/Descargas/*",
+            "*/.cache/*",
+            "*/.tmp/*",
+            "*/.temp/*",
+            "*.tmp",
+            "*.log",
+            "*.swp",
+            "*~",
+            "*.iso",
+            "*.vdi",
+            "*.vmdk"
+        ],
+        "directorios": [
+            ".cache",
+            ".tmp",
+            ".temp",
+            "Descargas",
+            "tmp",
+            "temp",
+            "Trash",
+            ".Trash",
+            ".local/share/Trash"
+        ],
+        "tamanio_maximo_mb": 100
+    },
+    "programacion": {
+        "full_cada_dias": 7,
+        "mantener_backups": 30,
+        "hora_auto": "02:00",
+        "ejecutar_auto": false
+    },
+    "verificacion": {
+        "verificar_integridad": true,
+        "checksum_algorithm": "sha256",
+        "verificar_espacio": true,
+        "espacio_minimo_gb": 10,
+        "verificar_permisos": true
+    },
+    "notificaciones": {
+        "notificar_kde": true,
+        "notificar_email": false,
+        "email": "tu@email.com",
+        "notificar_solo_errores": false
+    }
+}

@@ -1,0 +1,17 @@
+# Dependencias Python para Automatización KDE Plasma
+
+# Core
+psutil>=5.9.0
+schedule>=1.2.0
+
+# Opcional (instalar solo si se necesitan)
+# GPUtil>=1.4.0  # Para monitoreo GPU
+# requests>=2.28.0  # Para notificaciones web
+# pillow>=9.0.0  # Para procesamiento de imágenes
+# python-dateutil>=2.8.0  # Para manejo de fechas
+# pyyaml>=6.0  # Para configuraciones YAML
+
+# Para desarrollo
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=5.0.0
