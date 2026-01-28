@@ -1,4 +1,4 @@
-# 🐉 Dragoland - Automatización KDE Plasma
+# Automatización KDE Plasma
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -311,10 +311,11 @@ Estos scripts son proporcionados "TAL CUAL", sin garantías de ningún tipo. El 
 
 **Automatización no es pereza, es inteligencia aplicada.** ✨
 
-*Con ❤️ por dragoland-333 para la comunidad KDE Plasma*  
+*Con ❤️ por Dragoland para la comunidad KDE Plasma*  
 *"Transformando frustraciones en soluciones elegantes"*
 
 ---
 *Última actualización: $(date)*  
 *Scripts probados en: Arch Linux + KDE Plasma 6*
+
 
