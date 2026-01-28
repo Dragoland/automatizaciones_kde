@@ -2,7 +2,7 @@
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![KDE](https://img.shields.io/badge/KDE Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
+![KDE](https://img.shields.io/badge/KDE-Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 Colección de scripts de automatización para KDE Plasma que transforman tareas repetitivas en procesos automáticos, permitiéndote pasar de usuario a orquestador de tu entorno digital.
@@ -317,3 +317,4 @@ Estos scripts son proporcionados "TAL CUAL", sin garantías de ningún tipo. El 
 ---
 *Última actualización: $(date)*  
 *Scripts probados en: Arch Linux + KDE Plasma 6*
+
